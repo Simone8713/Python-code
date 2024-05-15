@@ -1,4 +1,4 @@
-# Python.Instacart-Basket_Analysis
+# Python.Instacart-Basket-Analysis
 Instacart is an online grocery store that operates through an app. Even though their sales are going well, they whant clear insights in their customer behaviour and sales patters. My task was to perform an initial data and exploratory analysis of their orders, products and customers and suggest strategies regarding their price ranges, customer profiling and advertising. 
 # Key Questions
 - The sales team needs to know what the busiest days of the week and hours of the
